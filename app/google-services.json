@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785477700953",
+    "project_id": "ch27-findstation",
+    "storage_bucket": "ch27-findstation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785477700953:android:7a015555486874970d5048",
+        "android_client_info": {
+          "package_name": "com.bluemoonl.ch27findsubway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785477700953-j1qvnd3m0vocb612d9bvkjhduunaidkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbP2J3aHGmfCSR22DXHNy3pOU0j0vGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785477700953-j1qvnd3m0vocb612d9bvkjhduunaidkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785477700953-tbnhldoi0498uus8i8p3k2rtmscdq89r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluemoonl.ch27findsubway"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
